@@ -1,0 +1,7 @@
+name	title	content	created_at
+Emma Johnson	First Post	This is my first post.	2026-06-01 10:00:00
+Emma Johnson	Second Post	Here is another post.	2026-06-06 15:00:00
+Liam Smith	SQL Practice	I am learning SQL today.	2026-06-02 11:00:00
+Liam Smith	MySQL	MySQL stores relational data.	2026-06-07 16:00:00
+Olivia Brown	Data Science	Data science is interesting.	2026-06-03 12:00:00
+Olivia Brown	Pandas	Pandas makes working with data easier.	2026-06-08 17:00:00
